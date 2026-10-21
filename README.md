@@ -1,4 +1,4 @@
-# Freya Sutedja
+# Freya Sutedja .𖥔 ݁ ˖๋ ࣭ ⭑
 
 Applied Mathematics (Data Science) at UC Berkeley.
 
