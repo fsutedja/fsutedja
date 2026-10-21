@@ -1,4 +1,14 @@
-## Hi there 👋
+# Freya Sutedja
+
+Applied Mathematics (Data Science) at UC Berkeley.
+
+## What I'm building"
+
+- Building [Overcount](https://github.com/USERNAME/overcount), a LeetCode-style practice site for combinatorics and probability
+
+## Talk to me!
+
+[LinkedIn](https://www.linkedin.com/in/freyaas/) · [freyas@berkeley.edu](mailto:freyas@berkeley.edu)
 
 <!--
 **fsutedja/fsutedja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
