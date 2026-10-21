@@ -1,6 +1,6 @@
 # Freya Sutedja .𖥔 ݁ ˖๋ ࣭ ⭑
 
-Applied Mathematics (Data Science) at UC Berkeley.
+Applied Mathematics (Data Science) at UC Berkeley
 
 ## What I'm building
 
