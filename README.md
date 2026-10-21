@@ -4,7 +4,9 @@ Applied Mathematics (Data Science) at UC Berkeley.
 
 ## What I'm building
 
-- Building [Overcount](https://github.com/fsutedja/overcount), a LeetCode-style practice site for combinatorics and probability
+- [Overcount](https://github.com/fsutedja/overcount), a LeetCode-style practice site for combinatorics and probability
+- NothingButNet, a basketball free shooting form analyzer
+- Steam game success predictorfrom keyword-based game ideas
 
 ## Talk to me!
 
