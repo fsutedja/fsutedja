@@ -6,7 +6,7 @@ Applied Mathematics (Data Science) at UC Berkeley.
 
 - [Overcount](https://github.com/fsutedja/overcount), a LeetCode-style practice site for combinatorics and probability
 - NothingButNet, a basketball free shooting form analyzer
-- Steam game success predictorfrom keyword-based game ideas
+- Steam game success predictor from keyword-based game ideas
 
 ## Talk to me!
 
