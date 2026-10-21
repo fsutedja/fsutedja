@@ -2,7 +2,7 @@
 
 Applied Mathematics (Data Science) at UC Berkeley.
 
-## What I'm building"
+## What I'm building
 
 - Building [Overcount](https://github.com/USERNAME/overcount), a LeetCode-style practice site for combinatorics and probability
 
