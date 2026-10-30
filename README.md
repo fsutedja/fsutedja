@@ -1,4 +1,4 @@
-# Freya Sutedja .𖥔 ݁ ˖๋ ࣭ ⭑
+# [Freya Sutedja](https://fsutedja.github.io/) .𖥔 ݁ ˖๋ ࣭ ⭑
 
 Applied Mathematics (Data Science) at UC Berkeley
 
