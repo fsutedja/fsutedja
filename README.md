@@ -8,7 +8,7 @@ Applied Mathematics (Data Science) at UC Berkeley
    
    🏀 [NothingButNet](https://github.com/e-ayah/nothingbutnet), a basketball free shooting form analyzer
    
-   🎮 Steam game success predictor from keyword-based game ideas
+   🎮 [Steam game suggestor](https://github.com/steamgamesdata198-fa26/streamlit-steam-game-success-app)
 
 ## Talk to me!
 
